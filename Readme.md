@@ -10,6 +10,7 @@ updated: 2020 03 16 -->
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
 # Pteron (PMV)
+![Pteron logo][IMG:hero:4]  
 ## Micro Shuttle and Rescue Vehicle
 ### by Fruit Bat Industries
 ![Mod Version][shield:mod:latest] 
@@ -187,6 +188,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [IMG:hero:1]: https://i.imgur.com/amouo8l.png "texture and logo work of Blackheart"
 [IMG:hero:2]: https://i.imgur.com/97s1p0O.png "Some of the amazing modeling work of Daemoria:"  
 [IMG:hero:3]: https://i.imgur.com/T6pyukJ.jpg "More inspiration"  
+[IMG:hero:4]: https://i.imgur.com/9insi36.png "Ptero logo"  
 
 <!--
 this file: GPLv2
