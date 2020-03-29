@@ -90,7 +90,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 
 *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
-###### v2.0.1.0 original: 01 Oct 2019 zed'K | updated: 16 Mar 2020 zed'K
+###### v0.5.0.0 original: 01 Oct 2019 zed'K | updated: 28 Mar 2020 zed'K
 
 [MOD:license]:      https://github.com/zer0Kerbal/Pteron/blob/master/LICENSE
 [MOD:contributing]: https://github.com/zer0Kerbal/Pteron/blob/master/.github/CONTRIBUTING.md
