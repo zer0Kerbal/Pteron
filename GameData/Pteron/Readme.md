@@ -2,14 +2,14 @@
 ![CC BY-NC-SA 4.0](https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/88x31.png "CC BY-NC-SA 4.0")
 
 <!-- Readme.md v1.0.2.0
-Ptreon (PMV)
+Pteron (PMV)
 created: 01 Oct 19
 updated: 2020 03 16 -->
 <!-- # KerbGuise Experimental engineering (KGEx)
 #### Brings you: -->
 <!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
 
-# Ptreon (PMV)
+# Pteron (PMV)
 ## Micro Shuttle and Rescue Vehicle
 ### by Fruit Bat Industries
 ![Mod Version][shield:mod:latest] 
@@ -92,14 +92,14 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 
 ###### v2.0.1.0 original: 01 Oct 2019 zed'K | updated: 16 Mar 2020 zed'K
 
-[MOD:license]:      https://github.com/zer0Kerbal/Ptreon/blob/master/LICENSE
-[MOD:contributing]: https://github.com/zer0Kerbal/Ptreon/blob/master/.github/CONTRIBUTING.md
-[MOD:issues]:       https://github.com/zer0Kerbal/Ptreon/issues
-[MOD:wiki]:         https://github.com/zer0Kerbal/Ptreon/
-[MOD:known]:        https://github.com/zer0Kerbal/Ptreon/wiki/Known-Issues
+[MOD:license]:      https://github.com/zer0Kerbal/Pteron/blob/master/LICENSE
+[MOD:contributing]: https://github.com/zer0Kerbal/Pteron/blob/master/.github/CONTRIBUTING.md
+[MOD:issues]:       https://github.com/zer0Kerbal/Pteron/issues
+[MOD:wiki]:         https://github.com/zer0Kerbal/Pteron/
+[MOD:known]:        https://github.com/zer0Kerbal/Pteron/wiki/Known-Issues
 [MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
-[MOD:github:repo]:  https://github.com/zer0Kerbal/Ptreon/
-[MOD:changelog]:    https://github.com/zer0Kerbal/Ptreon/Changelog.cfg
+[MOD:github:repo]:  https://github.com/zer0Kerbal/Pteron/
+[MOD:changelog]:    https://github.com/zer0Kerbal/Pteron/Changelog.cfg
 <!--- original mod stuff -->
 [MOD:original:source]: https://www.dropbox.com/s/85og3xdhark7com/Pteron5.rar?dl=0
 [MOD:original:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*
@@ -112,9 +112,9 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [LOGO:ccbyncsa4]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
 [LOGO:wtfpl]:   http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png
 
-[MOD:rel-github]: https://github.com/zer0Kerbal/Ptreon/releases/latest "GitHub"
+[MOD:rel-github]: https://github.com/zer0Kerbal/Pteron/releases/latest "GitHub"
 [MOD:rel-spacedock]: http://spacedock.info/mod/1746
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/ptreon
+[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Pteron
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
 [image:rel-github]:       https://i.imgur.com/RE4Ppr9.png
@@ -130,10 +130,10 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [image:rel-spacedock-sm]: https://i.postimg.cc/DZ22Hrhj/spacedock.png
 [image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
   
-[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/Ptreon?include_prereleases?style=plastic
-[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/mod.json  
-[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/ksp.json  "KSP Version"  
-[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/license.json
+[shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/Pteron?include_prereleases?style=plastic
+[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/mod.json  
+[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/ksp.json  "KSP Version"  
+[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/license.json
 [shield:kspavc]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
 [shield:ckan]:       https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
