@@ -21,25 +21,27 @@ updated: 2020 03 16 -->
 ### Preamble by [@Sage Sagan][LINK:sagesagan]: 
 > I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).czKnzF7.jpg
 
-The idea would be to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 Kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.
+> The idea would be to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 Kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.
 
-The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear8fBtsgg.jpg The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.
+> The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear8fBtsgg.jpg The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.  
+
 [IMG:hero:1]  
-So the thing is that I am so bad at 3-D modeling I thought that I would come on the boards and ask for the help of the best community in gaming, is there a 3-d modeler out there who can help me with this?
 
-I also need a texture person, it has to have the right tiled look...think Kliper
+> So the thing is that I am so bad at 3-D modeling I thought that I would come on the boards and ask for the help of the best community in gaming, is there a 3-d modeler out there who can help me with this?
 
-The things I can do are: write all the descriptions and amusing notes, test like a demon and of course have the idea for a tiny teeny, oh so cute shuttle.
-[IMG:hero:3]
-More inspiration
+> I also need a texture person, it has to have the right tiled look...think Kliper
+
+> The things I can do are: write all the descriptions and amusing notes, test like a demon and of course have the idea for a tiny teeny, oh so cute shuttle.  
+  
+[IMG:hero:3]  
+More inspiration  
 [IMG:hero:0]  
 ***  
 #### Cabin notes:  
-- Tank sizes are automatically determined by existing parts exisitng capacioty (thank you to [@JadeofMaar][LINK:jadeofmaar])
-- Default tank type should not change, if it was MP it still should be MP
-- If Near Future Exploration is installed, will switch (silver) LFO tank to LF and (metal) LFO tank to Oxidizer.
-- If KGEx is installed, several more combination tanktypes will become available.
-- You can tweak values by editing the part.cfg or using but beware, these are complicated and advanced multi-pass patches.  
+- WIP - work in progress
+- note lorum ipsem  
+- note lorum ipsem  
+- note lorum ipsem  
 - Have a request? Glad to have them, kindly submit through GitHub.
 ***
 ### Full Changelog:
@@ -49,24 +51,21 @@ More inspiration
 *See [Known Issuues][MOD:known] for any known issues*
 ***
 ### Installation Directions:
-- Use   
-[![CKAN][image:rel-ckan]][thread:ckan]
+- Use  
+[![CKAN][image:rel-ckan]][thread:ckan]  
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
-- [x] [Module Manager][thread:mm]  
 ### Recomends  
-- [x] [OhScrap!][thread:ohscrap]  
-- [x] [Kerbal Change Log][thread:kcl]  
+- [x] [Module Manager][thread:mm]  
 ### Suggests
+- [x] [Kerbal Change Log][thread:kcl]  
+- [x] [ScrapYard][thread:SYD]
+- [x] [OhScrap!][thread:OHS]  
 - [x] [StageRecovery][thread:sr]  
 - [x] [Kerbal Construction Time][thread:kct]  
-- [x] [LessRealThanReal][thread:lessrealthanreal] by [@Pehvbot][LINK:]  
+- [x] [TweakScale][thread:twk]  
 ### Supports
-- [x] [KRASH][thread:krash]  
-- [x] [TweakScale][thread:tweakscale]  
-- [x] [RemoteTech][thread:remotetech]  
-- [x] [FAR][thread:far]  
-- [x] [ContractConfigurator][thread:contractconfigurator]  
+- [x] [Kerbal Change Log][thread:kcl]  
 ### Conflicts
 - none known
 ***  
@@ -130,8 +129,8 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
   
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/Ptreon?include_prereleases?style=plastic
-[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/mod.json
-[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/ksp.json
+[shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/mod.json  
+[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/ksp.json  
 [shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/license.json
 [shield:kspavc]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
@@ -173,7 +172,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Change Log"  
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
 [thread:crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
-
+[thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"  
 [thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-* "Kerbal Construction Time"  
 [thread:mc]: https://forum.kerbalspaceprogram.com/index.php?/topic/178484-* "Magicore"  
 
