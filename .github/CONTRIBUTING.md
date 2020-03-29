@@ -1,19 +1,19 @@
 <!-- 
 CONTRIBUTING.md v1.0.0.1
-ScrapYard
+Pteron
 created: 2020 03 13
 updated: 2020 03 14
 -->
 
-[MOD:license]:      https://github.com/zer0Kerbal/ScrapYard/blob/master/LICENSE
-[MOD:contributing]: https://github.com/zer0Kerbal/ScrapYard/blob/master/.github/CONTRIBUTING.md
-[MOD:issues]:       https://github.com/zer0Kerbal/ScrapYard/issues
-[MOD:wiki]:         https://github.com/zer0Kerbal/ScrapYard/
-[MOD:known]:        https://github.com/zer0Kerbal/ScrapYard/wiki/Known-Issues
+[MOD:license]:      https://github.com/zer0Kerbal/Pteron/blob/master/LICENSE
+[MOD:contributing]: https://github.com/zer0Kerbal/Pteron/blob/master/.github/CONTRIBUTING.md
+[MOD:issues]:       https://github.com/zer0Kerbal/Pteron/issues
+[MOD:wiki]:         https://github.com/zer0Kerbal/Pteron/
+[MOD:known]:        https://github.com/zer0Kerbal/Pteron/wiki/Known-Issues
 [MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/178641-*
-[SHIELD:mod]:       https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/mod.json
-[SHIELD:ksp]:       https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/ksp.json
-[SHIELD:license]:   https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ScrapYard/master/json/license.json
+[SHIELD:mod]:       https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/mod.json
+[SHIELD:ksp]:       https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/ksp.json
+[SHIELD:license]:   https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/license.json
 
 # Before you Contribute (thank you!) Please Read:
 > [LICENSE][MOD:license] ![SHIELD:license] ![][LOGO:mit]  
@@ -24,7 +24,7 @@ updated: 2020 03 14
 ### All push requests are licensed under: ![SHIELD:license] ![][LOGO:mit]  
 
 # Submitting changes
-Please send a GitHub Pull Request to ScrapYard with a clear list of what you've done (read more about pull requests). When you send a pull request, we will love you forever if you include RSpec examples. We can always use more test coverage. Please follow our coding conventions (below) and make sure all of your commits are atomic (one feature per commit).
+Please send a GitHub Pull Request to Pteron with a clear list of what you've done (read more about pull requests). When you send a pull request, we will love you forever if you include RSpec examples. We can always use more test coverage. Please follow our coding conventions (below) and make sure all of your commits are atomic (one feature per commit).
 
 Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should look like this:
 

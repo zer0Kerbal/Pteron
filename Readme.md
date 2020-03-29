@@ -137,7 +137,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [shield:ckan]:       https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic
 [shield:github]:     https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic&logo=github
 [shield:curseforge]: https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic
-[shield:avcvalid]:    https://github.com/zer0Kerbal/Ptreon/workflows/Validate%20AVC%20.version%20files/badge.svg
+[shield:avcvalid]:   https://github.com/zer0Kerbal/Pteron/workflows/Validate%20AVC%20.version%20files/badge.svg "thank you to DasSkelett"  
 
 <!-- zer0Kerbal mods -->
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"  
