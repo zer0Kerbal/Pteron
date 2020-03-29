@@ -17,7 +17,8 @@ updated: 2020 03 16 -->
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
 ![Validate AVC .version files][shield:avcvalid]  
 ***
-[IMG:hero:3]  
+### Texture and Logo work by Blackheart  
+![Texture and Logo work by Blackheart][IMG:hero:1]  
 ### Preamble by [@Sage Sagan][LINK:sagesagan]: 
 > I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).czKnzF7.jpg
 
@@ -25,17 +26,19 @@ updated: 2020 03 16 -->
 
 > The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear8fBtsgg.jpg The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.  
 
-[IMG:hero:1]  
+### Some of the amazing modeling work of Daemoria  
+![Some of the amazing modeling work of Daemoria][IMG:hero:2]  
 
 > So the thing is that I am so bad at 3-D modeling I thought that I would come on the boards and ask for the help of the best community in gaming, is there a 3-d modeler out there who can help me with this?
 
 > I also need a texture person, it has to have the right tiled look...think Kliper
 
 > The things I can do are: write all the descriptions and amusing notes, test like a demon and of course have the idea for a tiny teeny, oh so cute shuttle.  
-  
-[IMG:hero:3]  
-More inspiration  
-[IMG:hero:0]  
+
+### More inspiration  
+![Test Flight!][IMG:hero:3]  
+### Fruit Bat Industries mk I  
+![More inspiration][IMG:hero:0]  
 ***  
 #### Cabin notes:  
 - WIP - work in progress
@@ -62,7 +65,6 @@ More inspiration
 - [x] [ScrapYard][thread:SYD]
 - [x] [OhScrap!][thread:OHS]  
 - [x] [StageRecovery][thread:sr]  
-- [x] [Kerbal Construction Time][thread:kct]  
 - [x] [TweakScale][thread:twk]  
 ### Supports
 - [x] [Kerbal Change Log][thread:kcl]  
@@ -130,7 +132,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
   
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/Ptreon?include_prereleases?style=plastic
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/mod.json  
-[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/ksp.json  
+[shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/ksp.json  "KSP Version"  
 [shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Ptreon/master/json/license.json
 [shield:kspavc]:     https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic
 [shield:spacedock]:  https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic
@@ -158,7 +160,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [thread:SDS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "Stork Delivery System (SDS)"  
 [thread:SC!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"  
 [thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"  
-[thread:NSSC:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"  
+[thread:NSSC]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!" 
 [thread:BIO]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191426-* "Biomatic"  
 [thread:B9S]:  https://forum.kerbalspaceprogram.com/index.php?/topic/190870-* "B9 Stock Switches"  
 [thread:KGX]: https://forum.kerbalspaceprogram.com/index.php?/topic/188246-* "KGEx"  
@@ -173,12 +175,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
 [thread:crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
 [thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"  
-[thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-* "Kerbal Construction Time"  
-[thread:mc]: https://forum.kerbalspaceprogram.com/index.php?/topic/178484-* "Magicore"  
 
-[thread:tbc]: https://forum.kerbalspaceprogram.com/index.php?/topic/169509-* "ToolbarController"  
-[thread:ctb]: https://forum.kerbalspaceprogram.com/index.php?/topic/170747-* "ClickThroughBlocker"  
-[thread:tbr]: https://forum.kerbalspaceprogram.com/index.php?/topic/161857-* "Blizzy's" 
 [LINK:license]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"  
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*
 
@@ -187,9 +184,9 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [LINK:sagesagan]: https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/ "Sage Sagan"  
 
 [IMG:hero:0]: https://i.imgur.com/KpBnYY2.jpg "Fruit Bat Industries Pteron mk I"  
-[IMG:hero:1]: https://i.imgur.com/amouo8l.png "texture and logo work of Blackheart:"
-[IMG:hero:2]: https://i.imgur.com/97s1p0O.png "Some of the amazing modelling work of Daemoria:"  
-[IMG:her0:3]: https://i.imgur.com/T6pyukJ.jpg "More inspiration"  
+[IMG:hero:1]: https://i.imgur.com/amouo8l.png "texture and logo work of Blackheart"
+[IMG:hero:2]: https://i.imgur.com/97s1p0O.png "Some of the amazing modeling work of Daemoria:"  
+[IMG:hero:3]: https://i.imgur.com/T6pyukJ.jpg "More inspiration"  
 
 <!--
 this file: GPLv2
