@@ -44,7 +44,7 @@
 *.docx
 *.xls
 *.xlsx
-
+*.session
 
 
 # zer0Kerbal common files
