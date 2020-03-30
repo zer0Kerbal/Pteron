@@ -11,7 +11,7 @@ updated: 2020 03 16 -->
 
 # Pteron (PMV)
 ![Pteron logo][IMG:hero:4]  
-## Micro Shuttle and Rescue Vehicle
+## Micro Shuttle and Rescue Vehicle for three (3) kerbals.
 ### by Fruit Bat Industries
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License ccbyncsa4][shield:license] ![][LOGO:ccbyncsa4]   
