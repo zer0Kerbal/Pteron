@@ -59,6 +59,7 @@ updated: 2020 03 16 -->
 [![CKAN][image:rel-ckan]][thread:ckan]  
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
+- [x] [Firespitter][thread:fs] required for wheels and retracting wheels. may cause bouts of dizziness.
 ### Recomends  
 - [x] [Module Manager][thread:mm]  
 ### Suggests
@@ -176,6 +177,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
 [thread:crp]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
 [thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"  
+[thread:fs]: https://github.com/snjo/Firespitter "Firespitter"  
 
 [LINK:license]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"  
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*
