@@ -1,0 +1,65 @@
+<!-- ReleaseLayout.md v1.1.4.0
+Pteron (PMV)
+created: 11 Aug 2018
+updated: 01 Feb 2020 -->
+
+<p><a href="https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*"><img src="https://img.shields.io/badge/Pteron%20version-0.6.3.0-orange.svg?style=plastic" alt="Mod Version" /></a> <a href="http://kerbalspaceprogram.com/"><img src="https://img.shields.io/badge/KSP%20version-1.7.3-3Cf.svg?style=plastic" alt="KSP version" /></a> <img src="https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic" alt="KSP-AVC" /> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="CC BY-NC-SA 4.0"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/license.json" alt="License GPLv3" /></a> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="CC BY-NC-SA 4.0"><img src="https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png" title="CC BY-NC-SA 4.0" alt="CC BY-NC-SA 4.0" /></a><br />
+<img src="https://github.com/zer0Kerbal/Pteron/workflows/Validate%20AVC%20.version%20files/badge.svg" alt="Validate AVC .version files" /></p>
+<hr />
+<h1 id="version-0630---brushing-off-the-construction-dust">Version 0.6.3.0 - Brushing off the Construction Dust</h1>
+<ul>
+<li>Beta Release 2020 04 08</li>
+<li>Cleaning the Windows</li>
+<li>Thank you to @overkill13</li>
+</ul>
+<h3 id="dockingport">dockingport</h3>
+<ul>
+<li>shift node_stack_bottom -Y from 0.2163243 to -0.2163243</li>
+<li>changed staged = false to true [ModuleDockingNode]</li>
+<li>commented out extranious [ModuleDockingNode]</li>
+</ul>
+<h3 id="minioms-pmv-engine">MiniOMS PMV-engine</h3>
+<ul>
+<li>changed thrust from 4 to 4.5</li>
+<li>change vacuum ISP from 295 to 270 to remind it that its MP and inefficent. (same as it's big brother)</li>
+<li>[ModuleGimbal] gimbalRange bumped from 1 to 3 (1/4 of full scale)</li>
+<li>[ModuleGimbal] commented out gimbalResponseSpeed and useGimbalResponseSpeed (don't know if #'s higher better or worse)</li>
+<li>to reflect increased thrust: changed rescaleFactor from .25 to .33</li>
+<li>to reflect increased size: increased mass from 0.02 to 0.025</li>
+</ul>
+<h3 id="pmv-nose-gear-smallgearbay">PMV-nose-gear (SmallGearBay)</h3>
+<ul>
+<li>re-add skinMaxTemp = 2700 - hopefully it sticks this time</li>
+<li>removed weird appendix attachRules = 1,1,1,1,1,0,0,0????</li>
+<li>removed DRAG_CUBE to see if that helps with it sleeping THIS far above the covers</li>
+</ul>
+<h3 id="wings">wings</h3>
+<ul>
+<li>commented out KSP calc DRAG_CUBE</li>
+<li>change ctrlSurfaceArea to 0.5 from 0.78 *</li>
+<li>change dragCoeff to 0.5 from 0.3 *</li>
+<li>toggle deploy to false</li>
+<li><ul>
+<li>: from 0.5.0.0 version</li>
+</ul></li>
+</ul>
+<blockquote>
+<p>See <a href="https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/Changelog.cfg">Full Changelog</a> for full details of changes<br />
+See <a href="https://github.com/zer0Kerbal/Pteron/issues">Known Issues</a> for known issues</p>
+</blockquote>
+<hr />
+<p><em>red box below is a link to forum post on how to get support</em><br />
+<a href="https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*"><img src="https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support" /></a></p>
+<p><img src="https://" title="Deployable Assets" /></p>
+<hr />
+<p><em>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</em></p>
+<!-- static -->
+
+<!--- license logo urls -->
+
+<!--- release graphic(s) -->
+
+<!--
+GPLv2
+zer0Kerbal
+-->
