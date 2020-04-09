@@ -115,7 +115,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [LOGO:wtfpl]:   http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png
 
 [MOD:rel-github]: https://github.com/zer0Kerbal/Pteron/releases/latest "GitHub"
-[MOD:rel-spacedock]: http://spacedock.info/mod/1746
+[MOD:rel-spacedock]: http://spacedock.info/mod/2379
 [MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Pteron
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
