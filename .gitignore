@@ -68,7 +68,7 @@ _deploy.bat
 _deploySub.bat
 mod.version
 regex4loc.txt
-.*
+
 # database files
 *.mdb
 *.lock
