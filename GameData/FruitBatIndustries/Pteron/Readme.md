@@ -43,9 +43,9 @@ updated: 2020 03 16 -->
 ***  
 #### Cabin notes:  
 - WIP - work in progress
-- note lorum ipsem  
-- note lorum ipsem  
-- note lorum ipsem  
+- Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
+- Suspension is a little stiff for landing  
+- I have not personally tested the patches  
 - Have a request? Glad to have them, kindly submit through GitHub.
 ***
 ### Full Changelog:
@@ -56,7 +56,7 @@ updated: 2020 03 16 -->
 ***
 ### Installation Directions:
 - Use  
-[![CKAN][image:rel-ckan]][thread:ckan]  
+[![CKAN][image:ckan]][thread:ckan]  
 ### Dependencies
 - [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
 - [x] [Firespitter][thread:fs] required for wheels and retracting wheels. may cause bouts of dizziness.
@@ -88,11 +88,11 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 Source: [GitHub][MOD:original:source]  
 License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]  
 <!-- graphical links to downloads -->
-[![][image:rel-github]][MOD:rel-github] [![][image:rel-spacedock]][MOD:rel-spacedock] [![][image:rel-curseforge]][MOD:rel-curseforge]  
+[![][image:github]][MOD:github] [![][image:spacedock]][MOD:spacedock] [![][image:curseforge]][MOD:curseforge]  
 
 *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
-###### v0.5.0.0 original: 01 Oct 2019 zed'K | updated: 28 Mar 2020 zed'K
+###### v1.0.0.0 original: 01 Oct 2019 zed'K | updated: 19 Apr 2020 zed'K
 
 [MOD:license]:      https://github.com/zer0Kerbal/Pteron/blob/master/LICENSE
 [MOD:contributing]: https://github.com/zer0Kerbal/Pteron/blob/master/.github/CONTRIBUTING.md
@@ -101,37 +101,28 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [MOD:known]:        https://github.com/zer0Kerbal/Pteron/wiki/Known-Issues
 [MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
 [MOD:github:repo]:  https://github.com/zer0Kerbal/Pteron/
-[MOD:changelog]:    https://github.com/zer0Kerbal/Pteron/Changelog.cfg
+[MOD:changelog]:    https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/Changelog.cfg
 <!--- original mod stuff -->
 [MOD:original:source]: https://www.dropbox.com/s/85og3xdhark7com/Pteron5.rar?dl=0
 [MOD:original:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*
 [MOD:original:download]: https://www.dropbox.com/s/85og3xdhark7com/Pteron5.rar?dl=0
 
 [KSP:website]: http://kerbalspaceprogram.com/
-[LOGO:mit]:     https://i.postimg.cc/bvjfsMP5/MIT-17x17.png
-[LOGO:gplv3]:   https://i.postimg.cc/90kCDs7K/gplv3-48x17.png
 [LOGO:ccbysa4]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
 [LOGO:ccbyncsa4]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-[LOGO:wtfpl]:   http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png
 
-[MOD:rel-github]: https://github.com/zer0Kerbal/Pteron/releases/latest "GitHub"
-[MOD:rel-spacedock]: http://spacedock.info/mod/2379
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Pteron
-[MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
+[MOD:github]: https://github.com/zer0Kerbal/Pteron/releases/latest "GitHub"
+[MOD:spacedock]: http://spacedock.info/mod/2379
+[MOD:curseforge]: https://www.curseforge.com/kerbal/ksp-mods/Pteron
+[MOD:ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
-[image:rel-github]:       https://i.imgur.com/RE4Ppr9.png
-[image:rel-spacedock]: https://i.imgur.com/m0a7tn2.png
-[image:rel-curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png
+[image:github]:       https://i.imgur.com/RE4Ppr9.png
+[image:spacedock]: https://i.imgur.com/m0a7tn2.png
+[image:curseforge]: https://i.postimg.cc/RZNyB5vP/Download-On-Curse.png
 [image:get-support]:    https://i.postimg.cc/vHP6zmrw/image.png
 
-[image:rel-ckan]:    https://i.postimg.cc/x8XSVg4R/sj507JC.png
-[image:changelog]: https://i.postimg.cc/qM9p4V0C/changelog.png
-[image:source]:      https://i.postimg.cc/tJ8GqW0H/source.png
+[image:ckan]:    https://i.postimg.cc/x8XSVg4R/sj507JC.png
 
-[image:rel-github-sm]:      https://i.postimg.cc/1XXy5yfD/github.png
-[image:rel-spacedock-sm]: https://i.postimg.cc/DZ22Hrhj/spacedock.png
-[image:rel-curseforge-sm]: https://i.postimg.cc/ZRVTSWKT/UVVt0OP.png
-  
 [shield:mod:latest]: https://img.shields.io/github/v/release/zer0Kerbal/Pteron?include_prereleases?style=plastic
 [shield:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/mod.json  
 [shield:ksp]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/ksp.json  "KSP Version"  
