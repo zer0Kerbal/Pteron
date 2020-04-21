@@ -58,7 +58,7 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 ### Dependencies
 - [x]  [Kerbal Space Program][KSP:website]  [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
 - [x]  [Firespitter][thread:fs] required for wheels and retracting wheels. may cause bouts of dizziness.
-### Recomends  
+### Recommends  
 - [x]  [Module Manager][thread:mm]  
 ### Suggests
 - [x]  [Kerbal Change Log][thread:kcl]  
