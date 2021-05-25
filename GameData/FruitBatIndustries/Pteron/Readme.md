@@ -1,40 +1,36 @@
-[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-![CC BY-NC-SA 4.0](https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/88x31.png "CC BY-NC-SA 4.0")
-
-<!-- Readme.md v1.0.2.0
+<!-- Readme.md v1.0.3.0
 Pteron (PMV)
 created: 01 Oct 19
-updated: 2020 03 16 -->
-<!-- # KerbGuise Experimental engineering (KGEx)
-#### Brings you: -->
-<!-- Download on SpaceDock or Github or Curseforge. Also available on CKAN. -->
-
+updated: 25 May 2021 -->  
+***  
+## Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][MOD:curseforge].  Also available on [CKAN][MOD:ckan].  
+  
 # Pteron (PMV)
 ![Pteron logo][IMG:hero:4]  
 ## Micro Shuttle and Rescue Vehicle for three (3) kerbals.
 ### by Fruit Bat Industries
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License ccbyncsa4][shield:license] ![][LOGO:ccbyncsa4]   
+  
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
+  
 ![Validate AVC .version files][shield:avcvalid]  
 ***
 ### Texture and Logo work by Blackheart  
 ![Texture and Logo work by Blackheart][IMG:hero:1]  
 ### Preamble by [@Sage Sagan][LINK:sagesagan]: 
-> I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).czKnzF7.jpg
+> I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).
 
-> The idea would be to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 Kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.
+> The idea ~would be~ [was] to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 Kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.
 
 > The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear8fBtsgg.jpg The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.  
-
+  
+###  Youtube Review by [@Kottabos Gaming][LINK:kottabos]  
+[![][UTUBE:img]][UTUBE:link]  
+Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]  
+  
 ### Some of the amazing modeling work of Daemoria  
 ![Some of the amazing modeling work of Daemoria][IMG:hero:2]  
-
-> So the thing is that I am so bad at 3-D modeling I thought that I would come on the boards and ask for the help of the best community in gaming, is there a 3-d modeler out there who can help me with this?
-
-> I also need a texture person, it has to have the right tiled look...think Kliper
-
-> The things I can do are: write all the descriptions and amusing notes, test like a demon and of course have the idea for a tiny teeny, oh so cute shuttle.  
 
 ### More inspiration  
 ![Test Flight!][IMG:hero:3]  
@@ -58,18 +54,18 @@ updated: 2020 03 16 -->
 - Use  
 [![CKAN][image:ckan]][thread:ckan]  
 ### Dependencies
-- [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
-- [x] [Firespitter][thread:fs] required for wheels and retracting wheels. may cause bouts of dizziness.
-### Recomends  
-- [x] [Module Manager][thread:mm]  
+- [x]  [Kerbal Space Program][KSP:website]  [![][shield:ksp]][KSP:website] ***may*** work on other versions (YMMV)
+- [x]  [Firespitter][thread:fs] required for wheels and retracting wheels. may cause bouts of dizziness.
+### Recommends  
+- [x]  [Module Manager][thread:mm]  
 ### Suggests
-- [x] [Kerbal Change Log][thread:kcl]  
-- [x] [ScrapYard][thread:SYD]
-- [x] [OhScrap!][thread:OHS]  
-- [x] [StageRecovery][thread:sr]  
-- [x] [TweakScale][thread:twk]  
+- [x]  [Kerbal Change Log][thread:kcl]  
+- [x]  [ScrapYard][thread:SYD]
+- [x]  [OhScrap!][thread:OHS]  
+- [x]  [StageRecovery][thread:sr]  
+- [x]  [TweakScale][thread:twk]  
 ### Supports
-- [x] [Kerbal Change Log][thread:kcl]  
+- [x]  [Kerbal Change Log][thread:kcl]  
 ### Conflicts
 - none known
 ***  
@@ -92,7 +88,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 
 *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
-###### v1.0.0.0 original: 01 Oct 2019 zed'K | updated: 19 Apr 2020 zed'K
+###### v1.0.0.0 original: 01 Oct 2019 zed'K | updated: 25 May 2021 zed'K
 
 [MOD:license]:      https://github.com/zer0Kerbal/Pteron/blob/master/LICENSE
 [MOD:contributing]: https://github.com/zer0Kerbal/Pteron/blob/master/.github/CONTRIBUTING.md
@@ -176,7 +172,12 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [LINK:linuxgurugamer]: https://forum.kerbalspaceprogram.com/index.php?/profile/129964-linuxgurugamer/
 [LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"  
 [LINK:sagesagan]: https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/ "Sage Sagan"  
-
+  
+[UTUBE:img]:  https://img.youtube.com/vi/3s4fpEkW40w/0.jpg "Kottabo Talks Pteron Micro Shuttle & Rescue Vehicle"  
+[UTUBE:link]: https://youtu.be/3s4fpEkW40w "Kottabo Talks Pteron Micro Shuttle & Rescue Vehicle" 
+[LINK:patreon:kottabos]: https://www.patreon.com/Kottabosgames "Kottabos Games Patreon"  
+[LINK:kottabos]: https://forum.kerbalspaceprogram.com/index.php?/profile/36583-kottabos/ "Kottabos on KSP Forums"  
+  
 [IMG:hero:0]: https://i.imgur.com/KpBnYY2.jpg "Fruit Bat Industries Pteron mk I"  
 [IMG:hero:1]: https://i.imgur.com/amouo8l.png "texture and logo work of Blackheart"
 [IMG:hero:2]: https://i.imgur.com/97s1p0O.png "Some of the amazing modeling work of Daemoria:"  

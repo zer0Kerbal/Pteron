@@ -1,9 +1,7 @@
-<!-- Readme.md v1.0.2.0
+<!-- Readme.md v1.0.3.0
 Pteron (PMV)
 created: 01 Oct 19
-updated: 2020 03 16 -->  
-
-<!-- [CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) ![CC BY-NC-SA 4.0](https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/88x31.png "CC BY-NC-SA 4.0")   -->
+updated: 25 May 2021 -->  
 ***  
 ## Download on [SpaceDock][MOD:spacedock] or [Github][MOD:github] or [Curseforge][MOD:curseforge].  Also available on [CKAN][MOD:ckan].  
   
@@ -90,7 +88,7 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 
 *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
-###### v1.0.0.0 original: 01 Oct 2019 zed'K | updated: 19 Apr 2020 zed'K
+###### v1.0.0.0 original: 01 Oct 2019 zed'K | updated: 25 May 2021 zed'K
 
 [MOD:license]:      https://github.com/zer0Kerbal/Pteron/blob/master/LICENSE
 [MOD:contributing]: https://github.com/zer0Kerbal/Pteron/blob/master/.github/CONTRIBUTING.md
