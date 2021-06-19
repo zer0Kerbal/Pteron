@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KSPBundleDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" UrlName="hydra" Name="hydra" CreatedTime="-8586129430885961740">
+  <Author />
+  <Info />
+  <Assets>
+    <Asset Name="Hydra" Path="Assets/Models/Hydra.blend" Type="GameObject" Url="Models/Hydra" AutoLoad="false" />
+  </Assets>
+  <Dependencies />
+</KSPBundleDefinition>
