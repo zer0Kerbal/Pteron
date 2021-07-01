@@ -1,0 +1,5 @@
+model and textures used with permission under GPLv3 license
+
+from artwhaley's  Axial Aerospace Dreamer
+
+permission granted by zer0Kerbal

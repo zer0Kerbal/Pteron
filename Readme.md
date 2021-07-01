@@ -1,9 +1,9 @@
-<!-- Readme.md v1.0.3.0
+<!-- Readme.md v1.0.4.0
 Pteron (PMV)
 created: 01 Oct 19
-updated: 25 May 2021 -->  
+updated: 30 Jun 2021 -->  
 ***
-## Download on [Curseforge][MOD:curseforge] or [Github][MOD:github] or [SpaceDock][MOD:spacedock].  Also available on [CKAN][MOD:ckan]. 
+## Download on [Curseforge][MOD:curseforge] or [Github][MOD:github] or [SpaceDock][MOD:spacedock]. Also available on [CKAN][MOD:ckan].  
 
 # Pteron (PMSRV)
 ![Pteron logo][IMG:hero:4]  
@@ -18,18 +18,16 @@ updated: 25 May 2021 -->
 ***
 ### Texture and Logo work by Blackheart  
 
-
-See the [README in the Localization folder] or [Online][LINK:localization] for instructions for adding or improving translations for languages other than English.
+> ## Help Wanted:  
+> * Localization: See the [README in the Localization folder] or [Online][LINK:localization] for instructions for adding or improving translations for languages other than English.
+> * Model updates to Unity 2019
+> * Wheels updated to either stock or KSPWheel
+> * Variant Textures and code to make it work always welcome!
+> * Parachute textures that work using Pteron logos
+> * Custom IVA, doesn't have to be fancy - just plain (or better)
 
 ## How to donate
-
-[![Donate]img:donation:paypal]][Link:donation:paypal]
-
-[LINK:localization]: https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/GameData/FruitBatIndustries/Pteron/Localization/readme.md "Localization/readme"
-
-[Link:donation:paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7H2LCH6SP7TTE&lc=US&item_name=zer0Kerbal_Mods&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
-
-[img:donation:paypal]: https://i.imgur.com/M9m07Qw.png
+[![Patreon][img:coffee:patreon]][link:coffee:patreon] [![Github][img:coffee:github]][link:coffee:github] [![Donate][img:coffee:paypal]][link:coffee:paypal]  
 
 ![Texture and Logo work by Blackheart][IMG:hero:1]  
 ### Preamble by [@Sage Sagan][LINK:sagesagan]: 
@@ -184,6 +182,16 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 
 [LINK:license]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
 [thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*
+
+[LINK:localization]: https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/GameData/FruitBatIndustries/Pteron/Localization/readme.md "Localization/readme"
+
+[link:coffee:patreon]: https://www.patreon.com/bePatron?u=23390503 "Patreon"
+[link:coffee:github]: https://github.com/sponsors/zer0Kerbal "Github"
+[link:coffee:paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7H2LCH6SP7TTE&lc=US&item_name=zer0Kerbal_Mods&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted "PayPal"
+
+[img:coffee:patreon]: https://i.postimg.cc/CL4SKKJm/becomeapatron300x100.png "Patreon"
+[img:coffee:github]: https://i.postimg.cc/wMQ83W57/becomeasponsor160x80.png "Github"
+[img:coffee:paypal]: https://i.imgur.com/M9m07Qw.png "PayPal"
 
 [LINK:linuxgurugamer]: https://forum.kerbalspaceprogram.com/index.php?/profile/129964-linuxgurugamer/
 [LINK:zer0Kerbal]:     https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"

@@ -1,9 +1,13 @@
-// Pteron.restockwhitelist v1.0.0.0
-// Pteron
-// created: 02 Oct 19
-// updated: 18 May 2021
+// Pteron.restockwhitelist v1.1.0.0
+// Pteron (PMV)
+// created: 02 Oct 2019
+// updated: 19 Jun 2021
 
 Squad/Parts/Engine/OMSEngine/Puff_v2/
+Squad/Parts/Engine/liquidEngineSSME/
+Squad/Parts/Utility/parachuteMk1/
+Squad/Parts/Utility/parachuteMk2-R/
+Squad/Parts/Utility/parachuteMk12-R/
 
 // GPLv2
 // zer0Kerbal
