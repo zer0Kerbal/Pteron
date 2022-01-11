@@ -1,57 +1,138 @@
-﻿// Changelog.cfg v1.0.0.0
-// Pteron
+﻿// changelog.md v1.0.0.0
+// Pteron (PMSRV)
 // created: 2020 02 25
 // updated: 25 May 2021
 
-# Version 0.9.0.0 - Pull in case of Emergency!
-- release for KSP 1.12.x
+# Changelog
+
+| modName | Petreon (PMSRV!)                                               |
+| ------- | -------------------------------------------------------------- |
+| license | CC BY-NC-SA 4.0                                                            |
+| website | https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* |
+| author  |  Sage Sagan and zer0Kerbal                     |
+
+# Version 0.9.9.9-prerelease - See Clearly the Flames!
+
+- 10 Jan 2022  
+- Release for Kerbal Space Program [KSP 1.12.x] 
+
+<h4 style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center">
+<b>DO A CLEAN INSTALL:</br> DELETE EXISTING INSTALLATION THEN RE-INSTALL</b></h4>
+<p style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center">Download from <a href="https://www.curseforge.com/kerbal/ksp-mods/Pteron/files">CurseForge</a></p>
+
+## Changes
+
+### All parachutes
+
+- adjusted drag
+- closes #22
+
 ### [pmv-hydra]
-  - now uses new model with permission from artwhaley's Axial Aerospace Dreamer  
-  - added Alternator (only to this part)
-  - two mode engine - vacuum and afterburner
+
+- in order to have engine effects, had to remove multimode
+- engine FX are now working
+- one mode engine - same as afterburner
+- added drag cube
+- Elon Kermin found increased efficiency! and added an alternator
+- closes #20
+
+### <en-us.cfg>
+
+- adjust to reflect changes
+- manual lint and style
+- closes #27
+- updates #20
+
+### Pteron.version
+
+- change Changelog.cfg --> changelog.md
+- update release version
+- update minimum KSP version
+
+### [pmv-engine]
+
+- engine FX are now working #20
+- Elon Kermin found increased efficiency!
+  
+### [pmv-dockingport]
+
+- adjust [node_stack_bottom] y location
+- adjust [node_stack_top] y location
+- [ModuleDockingNode]: referenceAttachNode = bottom instead of top - this made it REALLY hard to dock!
+- [description] from #pmv--dock-desc to #pmv-dock-desc (darn hyphen-monster again!)
+- manual lint and style
+- closes #13
+
+### [pmv-shuttle-body]
+
+- adjust [node_stack_bottom_APrt] y location
+- adjust [node_stack_bottom_AStb] y location
+- adjust [node_stack_bottom_BDsl] y location
+- adjust [node_stack_bottom_BVnt] y location
+- adjust [node_stack_gear] to make retracted gear flush
+
+closes #14 - Version 0.9.9.9-prerelease
+closes #15 - 0.9.9.9-prerelease Social 
+closes #16 - 0.9.9.9-prerelease Release
+closes #17 - 0.9.9.9-prerelease Update documentatio
+closes #18 - 0.9.9.9-prerelease Legal MumboJumbo
+
+## Version 0.9.0.0 - Pull in case of Emergency!
+
+- 30 Jun 2021
+- release for KSP 1.12.x
+
+### [pmv-hydra]
+
+- now uses new model with permission from artwhaley's Axial Aerospace Dreamer  
+- added Alternator (only to this part)
+- two mode engine - vacuum and afterburner
+
 ### add
+
 - Restock whitelist patch (default off) thank you [@KawaiiLucy](https://forum.kerbalspaceprogram.com/index.php?/profile/201212-kawaiilucy/)  
-### Add
-- ModuleResourceConverter
-- ODFC.cfg v1.1.0.0
+
 ### Add 
+
 - drag cubes
 - ModuleCargoPart
 - defaultActionGroup = Gear
+
 ### [pmv-shuttle-body]
+
+- ModuleResourceConverter
+- ODFC.cfg v1.1.0.0
 - add ModuleInventoryPart		
 - InventorySlots = 6
 - packedVolumeLimit = 2500
+
 ### adjust
+
 - body node_stack_bottom = 0.0, -1.44456, 0.0, 0.0, -1.0, 0.0, 1, 1
 - docking port 180z rotation
   - node_stack_bottom = 0.0, -0.20625, 0.0, 0.0, -1.0, 0.0, 1, 1, 1
   - node_stack_top = 0.0, 0.009, 0.001, 0.0, 1.0, 0.0, 1, 1
 - WINGS
   - NODE ORIENTATION	
+
 ### Firespitter.cfg
+
 - move Firespitter wheel module into patch
 - use stock ModuleAnimateGeneric if Firespitter is not installed.
+
 ### [pmv-dockingport]
+
 - ~~now uses new multi-light ModuleLight~~
 - revert from multi-light, instead add color and blink to the two sets of lights.
 
 
-KERBALCHANGELOG
-{
-	showChangelog = True
-	modName = Pteron (PMSRV)
-	license = CC-BY-NC-SA-4.0
-	author = Sage Sagan, zer0Kerbal
-	VERSION
-	{
-		version = 0.8.0.0
-        versionDate = 30 Jun 2021
-        versionKSP = 1.12.1
-		versionName = <color=#ff0000><b>Pull in case of Emergency!</b></color>
-		change = release for KSP 1.11.x
-		change = add engine to Restock whitelist (default off)
-		change = add Restock patch (default is on)
+# Version 0.8.0.0 - Pull in case of Emergency!
+
+- 30 Jun 2021
+- for KSP 1.12.1
+
+- add engine to Restock whitelist (default off)
+- add Restock patch (default is on)
         CHANGE {
             type = [Pmv-Hydra]
             change = now uses new model with permission from artwhaley's Axial Aerospace Dreamer  
@@ -345,44 +426,39 @@ KERBALCHANGELOG
 			subChange = CoLOffset change: 0.0, -0.5, 0.0 was 0.0, -1.5, 0.0
 		}
 	}
-	VERSION
-	{
-		version = 0.6.1.0
-		versionName = Brushing off the Construction Dust
-		change = Thank you to @overkill13
-		change = apologies, forgot to include Firespitter as a required mod (wheels)
-		change = adjusted CoM +y
-		change = adjusted CoL +z
-		change = fix attachement for MiniOMS engines
-		change = fix decoupler node on docking port
-		change = max temps on wings different - gave them the same haircut
-		change = R/W on body from 5/3/3 to 5/-
-		change = controlpoint noseup20 to nosedown15
-		change = body skinMaxTemp from 2700 -> 2200
-		change = wings skinMaxTemp from 2700/2500 -> 2400
-		change = wings maxTemp from 2400 -> 2000
-		change = added breakeringForce/Torque 200 to docking port
-		change = dockingport referenceAttachNode changed from top to bottom
-		change = dockingport staged changed to false, still can enable
-		
-	}
-	VERSION
-	{
-		version = 0.6.0.0
-		versionName = Brushing off the Construction Dust
-		change = >>-- adopted for curation by @zer0Kerbal --<<
-		CHANGE
-		{
-			change = organize for adoption
-			subChange = folder structure
-			subChange = added license(s) file(s)
-			subChange = added .version file
-			subChange = Readme
-			subChange = automated backend
-			subChange = jsons
-			subChange = Changelog.md -> Kerbal Changelog Changelog.cfg
-			subChange = updated Readme.md
-			subChange = moved changelog into separate file
+
+## Version 0.6.1.0 - Brushing off the Construction Dust
+
+-  Thank you to @overkill13
+-  apologies, forgot to include Firespitter as a required mod (wheels)
+-  adjusted CoM +y
+-  adjusted CoL +z
+-  fix attachement for MiniOMS engines
+-  fix decoupler node on docking port
+-  max temps on wings different - gave them the same haircut
+-  R/W on body from 5/3/3 to 5/-
+-  controlpoint noseup20 to nosedown15
+-  body skinMaxTemp from 2700 -> 2200
+-  wings skinMaxTemp from 2700/2500 -> 2400
+-  wings maxTemp from 2400 -> 2000
+-  added breakeringForce/Torque 200 to docking port
+-  dockingport referenceAttachNode changed from top to bottom
+-  dockingport staged changed to false, still can enable
+
+## Version 0.6.0.0 -  Brushing off the Construction Dust
+
+- >>-- adopted for curation by @zer0Kerbal --<<
+
+### organize for adoption
+- folder structure
+- added license(s) file(s)
+- added .version file
+- Readme
+- automated backend
+- jsons
+- Changelog.md -> Kerbal Changelog Changelog.cfg
+- updated Readme.md
+- moved changelog into separate file
 		}
 		CHANGE
 		{
@@ -506,24 +582,18 @@ KERBALCHANGELOG
 		change = added additional fields in .version (might need to tweak urls)
 		change = added shields to Readme.md
 		change = adjusted nodes (flipped orientation as needed)
-		CHANGE
-		{
-			change = Adoption by zer0Kerbal
-			subchange = Send Adoption Papers
-			subChange = Post Adoption Notice
-			subChange = gather
-			subChange = verify licenses
-			subChange = look for existing repo/postings
-		}
-	}
-	VERSION
-	{
-		version = 0.5.0.0
-		versionName = the pre-adoption partyBeta
-		change = Beta Release 09/09/2014
-		change = from original forum post's dropbox link
-	}
-}
+		
+### Adoption by zer0Kerbal
 
-// GPLv2 2021
-// zer0Kerbal
+- Send Adoption Papers
+- Post Adoption Notice
+- gather
+- verify licenses
+- look for existing repo/postings
+	
+## Version 0.5.0.0 - the pre-adoption partyBeta
+
+- Beta Release 09/09/2014
+- from original forum post's dropbox link
+
+<!--- CC BY-ND 3.0 unported 2021 by zer0Kerbal-->
