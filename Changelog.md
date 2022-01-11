@@ -11,18 +11,12 @@
 | website | https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* |
 | author  |  Sage Sagan and zer0Kerbal                     |
 
-# Version 0.9.9.9-prerelease - See Clearly the Flames!
+## Version 0.9.9.9-prerelease - See Clearly the Flames!
 
 - 10 Jan 2022  
 - Release for Kerbal Space Program [KSP 1.12.x] 
 
-<h4 style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center">
-<b>DO A CLEAN INSTALL:</br> DELETE EXISTING INSTALLATION THEN RE-INSTALL</b></h4>
-<p style="border:0.5px solid Tomato; background-color: #bada55; color: #FF0000; text-align:center">Download from <a href="https://www.curseforge.com/kerbal/ksp-mods/Pteron/files">CurseForge</a></p>
-
-## Changes
-
-### All parachutes
+### parachutes
 
 - adjusted drag
 - closes #22
