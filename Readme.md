@@ -3,11 +3,9 @@ Pteron (PMSRV)
 created: 01 Oct 2019
 updated: 08 Oct 2021 --> 
 
-## Download on [Curseforge][CURSFG:url] or [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. 
+## Download on [Curseforge][CURSFG:url], [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. 
 
 ##### Available on [CKAN][CKAN:url] as _`Pteron`._
-
-# Pteron (PMSRV) 
 
 # Pteron (PMSRV)
 
@@ -25,24 +23,17 @@ Micro Shuttle and Rescue Vehicle for three (3) kerbals by Fruit Bat Industries.
 
 ***
 
-### Texture and Logo work by Blackheart  
-
-## Help Wanted:  
-
-> * Model updates to Unity 2019
-> * Wheels updated to either stock or KSPWheel
-> * Variant Textures and code to make it work always welcome!
-> * Parachute textures that work using Pteron logos
-
 ![Texture and Logo work by Blackheart][IMG:hero:1]  
+
 
 ### Preamble by [@Sage Sagan][LINK:sagesagan]: 
 
-> I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).
-
-> The idea ~would be~ [was] to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 Kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.
-
-> The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear. The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.  
+<details>
+  <summary><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@Sage Sagan</a></summary>
+  <p>I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).</p>
+  <p>The idea ~would be~ [was] to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 Kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.<p>
+  <p>The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear. The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.</p>
+</details>
 
 ###  Youtube Review by [@Kottabos Gaming][LINK:kottabos]  
 [![][UTUBE:img]][UTUBE:link]  
@@ -66,6 +57,13 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 ![More inspiration][IMG:hero:0]  
 
 ***
+
+### Help Wanted:  
+
+> * Wheels updated to either stock or KSPWheel
+> * Variant Textures and code to make it work always welcome!
+> * Model updates to Unity 2019
+> * Parachute textures that work using Pteron logos
 
 #### Cabin notes:  
 
@@ -127,7 +125,7 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/173506-overkill13/">@overkill13</a> for massive amount of testing and suggestions </li>
     <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/201212-kawaiilucy/">@KawaiiLucy</a> for Restock whitelist </li>
 	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@Sage Sagan</a> for creating this mod </li>
-	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/">@Blackheart612</a> textures and other things </li>
+	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/">@Blackheart612</a> texture and logo work </li>
 	<li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/103696-daemoria/">@Daemoria</a> models and other things </li>
 	</ul>
 </details>
