@@ -65,11 +65,23 @@ updated: 10 Jan 2022 -->
 - adjust [node_stack_bottom_BVnt] y location
 - adjust [node_stack_gear] to make retracted gear flush
 
-closes #14 - Version 0.9.9.9-prerelease
-closes #15 - 0.9.9.9-prerelease Social 
-closes #16 - 0.9.9.9-prerelease Release
-closes #17 - 0.9.9.9-prerelease Update documentatio
-closes #18 - 0.9.9.9-prerelease Legal MumboJumbo
+- closes #10 - SOLVED: All Ship's Sound Effects disappear with this mod installed on 1.12.1
+- closes #11 - Localization duplicate
+- closes #13 - Pteron's Docking Collar does not dock while attached to Pteron itself, only when it 'undocks itself' from the minishuttle
+- closes #14 - Version 0.9.9.9-prerelease
+- closes #15 - 0.9.9.9-prerelease Social  
+- closes #16 - 0.9.9.9-prerelease Release
+- closes #17 - 0.9.9.9-prerelease Update documentatio
+- closes #18 - 0.9.9.9-prerelease Legal MumboJumbo
+- closes #20 - Hydra FX bug
+- closes #21 - A very dear request that will improve this mod by 1000%
+- closes #22 - ''Stowed'' drag on both Pteron parachutes is too big, needs tweaking
+- closes #24 - Version 0.9.99.0 prerelease Pull request- contributed by zer0Kerbal
+- closes #25 - upstream refresh Pull request- contributed by zer0Kerbal
+- closes #27 - Localization - English (United States) <en-us.cfg>
+- closes #28 - Localization - English (United States) <en-us.cfg>
+- closes #44 - update the readme.me to indicate this is **not** a ssto 
+- closes #46 - 0.9.9.9 prerelease Pull request- contributed by zer0Kerbal
 
 ## Version 0.9.0.0 - Pull in case of Emergency!
 
