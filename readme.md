@@ -3,24 +3,6 @@ Pteron (PMSRV)
 created: 01 Oct 2019
 updated: 08 Oct 2021 --> 
 
-<style>
-details > summary {
-  padding: 4px;
-  width: 200px;
-  background-color: #bada55;
-  border: #BADA55;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-}
-details > p {
-  background-color: #eeeeee;
-  padding: 4px;
-  margin: 0;
-  box-shadow: 1px 1px 2px #bbbbbb;
-}
-</style>
-
-
 [![Mod Version][MOD:shd:latest]][MOD:url] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
 
@@ -64,10 +46,9 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 <details>
 	<summary><b>Some of the amazing modeling work of <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/103696-daemoria/">@Daemoria</a></b></summary>
 
-    https://i.imgur.com/97s1p0O.png "Some of the amazing modeling work of Daemoria:"
+    ![Some of the amazing modeling work of Daemoria][IMG:hero:2]  
 
-![Some of the amazing modeling work of Daemoria][IMG:hero:2]  
-
+</details>
 
 [IMG:hero:0]: https://i.imgur.com/KpBnYY2.jpg "Fruit Bat Industries Pteron mk I"
 [IMG:hero:1]: https://i.imgur.com/amouo8l.png "texture and logo work of Blackheart"
@@ -75,7 +56,6 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 [IMG:hero:3]: https://i.imgur.com/T6pyukJ.jpg "More inspiration"
 [IMG:hero:4]: https://i.imgur.com/9insi36.png "Ptero logo"
 
-</details>
 
 ### More inspiration  
 
