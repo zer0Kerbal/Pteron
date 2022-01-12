@@ -9,7 +9,6 @@ updated: 08 Oct 2021 -->
 
 [![Mod Version][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
-
 ![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]  
 
 
