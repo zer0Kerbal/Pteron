@@ -3,11 +3,7 @@ Pteron (PMSRV)
 created: 01 Oct 2019
 updated: 08 Oct 2021 --> 
 
----
-
 ## Download on [Curseforge][CURSFG:url], [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]  
-
----
 
 [![Mod Version][MOD:shd:latest]][MOD:url] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
