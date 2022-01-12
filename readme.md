@@ -3,7 +3,7 @@ Pteron (PMSRV)
 created: 01 Oct 2019
 updated: 08 Oct 2021 --> 
 
-## Download on [Curseforge][CURSFG:url], [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. 
+# Download on [Curseforge][CURSFG:url], [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]. 
 
 ##### Available on [CKAN][CKAN:url] as _`Pteron`._
 
@@ -24,7 +24,6 @@ Micro Shuttle and Rescue Vehicle for three (3) kerbals by Fruit Bat Industries.
 ***
 
 ![Texture and Logo work by Blackheart][IMG:hero:1]  
-
 
 ### Preamble by [@Sage Sagan][LINK:sagesagan]: 
 
@@ -86,7 +85,7 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url] 
 
-***
+---
 
 ### See More
 
@@ -149,7 +148,7 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 > License: [![License CC BY-NC-SA 4.0][LIC:org:shd]][LIC:org:url]
   
   <ul>
-    <li></li>
+    <li>fff</li>
   </ul>
 </details>
 
