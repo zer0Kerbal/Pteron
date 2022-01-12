@@ -34,9 +34,9 @@ By [`@zer0Kerbal`][LINK:zer0Kerbal], originally by [`@Sage Sagan`][LINK:sagesaga
 </details>
 
 <details>
-  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-kottabos/ ">@Kottabos Gaming</a></b></summary>
-  Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
-  <iframe width="1136" height="639" src="https://www.youtube.com/embed/3s4fpEkW40w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-kottabos/">@Kottabos Gaming</a></b></summary>
+	<p>Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a></p>
+	<a href="https://youtu.be/3s4fpEkW40w" title="Kottabo Talks Pteron Micro Shuttle &amp; Rescue Vehicle"><img src="https://img.youtube.com/vi/3s4fpEkW40w/0.jpg" title="Kottabo Talks Pteron Micro Shuttle &amp; Rescue Vehicle"></a>
 </details>
 
 <details>
