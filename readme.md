@@ -1,9 +1,11 @@
-<!-- Readme.md v1.5.4.4
+<!-- Readme.md v1.6.5.0
 Pteron (PMSRV)
 created: 01 Oct 2019
 updated: 08 Oct 2021 --> 
 
 ## Download on [Curseforge][CURSFG:url], [Github][GITHUB:url] or [SpaceDock][SPCDCK:url]  
+
+
 
 [![Mod Version][MOD:shd:latest]][MOD:url] [![KSP version][KSP:shd]][KSP:url]  [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
@@ -11,79 +13,66 @@ updated: 08 Oct 2021 -->
 ![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]  
 
 
+
 # Pteron (PMSRV)
 
-Micro Shuttle and Rescue Vehicle for three (3) kerbals by Fruit Bat Industries.
+***Micro Shuttle and Rescue Vehicle*** for three (3) kerbals by Fruit Bat Industries. This is ***not*** a SSTO.
 
-By [`@zer0Kerbal`][LINK:zer0Kerbal], originally by [`@Sage Sagan`][LINK:sagesagan] with [`@Daemoria`][LINK:daemoria] and [@`Blackheart`][LINK:blackheart]  
 
----
 
-![Pteron logo][IMG:hero:4]  
+By [`@zer0Kerbal`][LINK:zer0Kerbal], originally by [`@Sage Sagan`][LINK:sagesagan] with [`@Daemoria`][LINK:daemoria] and [@`Blackheart612`][LINK:blackheart]  
 
-![Texture and Logo work by Blackheart][IMG:hero:1]  
+
+<img src="https://i.imgur.com/9insi36.png" alt="Ptero logo" width="25%" height="25%"> <img src="https://i.imgur.com/amouo8l.png" alt="Texture and Logo work by Blackheart612" width="50%" height="50%">
+
+
 
 <details>
-  <summary>Preamble by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@Sage Sagan</a></summary>
+  <summary><b>Preamble by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/">@Sage Sagan</a></b></summary>
   <p>I love Helldiver's KSO, but it got me thinking about the WEKA and the idea of a REALLY small lifting body shuttle(1.25m scale) for crew return and emergency returns from orbit. So after a few abortive attempts at Blender which resulted in the kind of design that should be drowned at birth, I decided to draw on a napkin at work(aren't those always the best designs?).</p>
   <p>The idea ~would be~ [was] to keep a very low part count, so ideally it will consist of only 6-8 parts i.e. Fuselage,right and left winglets ,docking port,two oms engines. The OMS engines would be R.C.S fueled so they can share the same internal R.C.S. tanks as the thrusters. The shuttle will seat 2 kerbals in a tandem configuration with hopefully RPM displays(2), as a place holder the MK2 cockpit IVA could be used as config is similar.<p>
   <p>The shuttle, when fueled would weigh in at around 1.8 tonnes and due to it's size will fit in a 2.5m fairing which makes it much easier to launch especially for FAR uses. I picture it as being slightly wider that a MK2 cockpit. This is not shown on the sketch but the docking collar will fit on the rear. The compact size means it should fit in a 2.5m cargo bay for carrying on larger ships etc.</p>
 </details>
 
-###  Youtube Review by [@Kottabos Gaming][LINK:kottabos]  
-[![][UTUBE:img]][UTUBE:link]  
-Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]  
-
-[UTUBE:img]:  https://img.youtube.com/vi/3s4fpEkW40w/0.jpg "Kottabo Talks Pteron Micro Shuttle & Rescue Vehicle"
-[UTUBE:link]: https://youtu.be/3s4fpEkW40w "Kottabo Talks Pteron Micro Shuttle & Rescue Vehicle"
-[LINK:patreon:kottabos]: https://www.patreon.com/Kottabosgames "Kottabos Games Patreon"
-[LINK:kottabos]: https://forum.kerbalspaceprogram.com/index.php?/profile/36583-kottabos/ "Kottabos on KSP Forums"
+<details>
+  <summary><b>Youtube review by <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/36583-kottabos/ ">@Kottabos Gaming</a></b></summary>
+  Support on <a href="https://www.patreon.com/Kottabosgames">Patreon.</a>
+  <iframe width="1136" height="639" src="https://www.youtube.com/embed/3s4fpEkW40w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
 <details>
 	<summary><b>Some of the amazing modeling work of <a href="https://forum.kerbalspaceprogram.com/index.php?/profile/103696-daemoria/">@Daemoria</a></b></summary>
-
-    ![Some of the amazing modeling work of Daemoria][IMG:hero:2]  
-
+    <pre>Some of the amazing modeling work of Daemoria</pre>
+    <img src="https://camo.githubusercontent.com/9d01269db79915ac1e33591e3c104d235629ee2c882d055b5bace08ea45d368a/68747470733a2f2f692e696d6775722e636f6d2f3937733170304f2e706e67" alt="Some of the amazing modeling work of Daemoria" width="75%" height="75%">
 </details>
 
-[IMG:hero:0]: https://i.imgur.com/KpBnYY2.jpg "Fruit Bat Industries Pteron mk I"
-[IMG:hero:1]: https://i.imgur.com/amouo8l.png "texture and logo work of Blackheart"
-[IMG:hero:2]: https://i.imgur.com/97s1p0O.png "Some of the amazing modeling work of Daemoria:"
-[IMG:hero:3]: https://i.imgur.com/T6pyukJ.jpg "More inspiration"
-[IMG:hero:4]: https://i.imgur.com/9insi36.png "Ptero logo"
+<details>
+    <summary><b>More inspiration</b></summary>
+    Test Flight!: More inspiration
+    <img src="https://i.imgur.com/T6pyukJ.jpg" alt="More inspiration" width="75%" height="75%">
+</details>
 
-
-### More inspiration  
-
-![Test Flight!][IMG:hero:3]  
-
-### Fruit Bat Industries mk I  
-
-![More inspiration][IMG:hero:0]  
-
-***
+<details>
+    <summary><b>Fruit Bat Industries mk I</b></summary>
+    <img src="https://i.imgur.com/KpBnYY2.jpg" alt="Fruit Bat Industries Pteron mk I" width="75%" height="75%">
+</details>
 
 ### Help Wanted:  
 
-> * Wheels updated to either stock or KSPWheel
+> * Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
 > * Variant Textures and code to make it work always welcome!
 > * Model updates to Unity 2019
 > * Parachute textures that work using Pteron logos
-
-#### Cabin notes:  
-
-- WIP - work in progress
-- Would love someone to convert from FireSpitter to Stock and/or KSPWheel  
-- Have a request? Glad to have them, kindly submit through GitHub.
+> * Have a request? Glad to have them, kindly submit through GitHub.
 
 ***
 
-### Localization _work in progress_
+### Localization - _work in progress_
 
 > - [x]  ![][EN] English - in progress
 > - [ ]  ***your translation here***
 >
-> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections solicited and welcome!* 
+> HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!* 
 
 ***
 
@@ -103,8 +92,14 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 
 ### Installation Directions:
 
-- Use  
-[![CKAN][CKAN:img]][CKAN:url]
+***Use***
+  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+
+  <a href="https://download.curseforge.com/">
+    <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
+</a>
+
+or [![CKAN][CKAN:img]][CKAN:url] [^3]  
 
 ### Dependencies
 
@@ -112,8 +107,8 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 
 ### Supports
 
-- [On Demand Fuel Cells (ODFC))][thread:ODFC] 
-- [Firespitter][thread:fs] for fully functioning wheels and retracting wheels. may cause bouts of dizziness.
+- [On Demand Fuel Cells (ODFC)][thread:ODFC] [^2]  
+- [Firespitter][thread:fs] for fully functioning wheels. may invoke bouts of dizziness.
 - [NEAR-FAR][thread:far]
 - [Restock][thread:restock]
 
@@ -122,7 +117,7 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 <div style="border:0.5px solid Tomato; background-color: #BADA55; color: #FF0000; text-align:center">
 <p><b>*red box below is a link to forum post on how to get support*</p>  
 <a href = "https://forum.kerbalspaceprogram.com/index.php?/topic/83212-*">
-  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a></div>
+  <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
 <details>
   <summary>Credits and Special Thanks</summary>
@@ -135,49 +130,22 @@ Support [@Kottabos][LINK:kottabos] on [Patreon][LINK:patreon:kottabos]
 	</ul>
 </details>
 
-<details>
-  <summary>Legal Mumbo Jumbo (License _provenance_)</summary>
-  
+### Legal Mumbo Jumbo (License _provenance_)
 
 #### Current (1) - [`zer0Kerbal`][LINK:zer0Kerbal] 
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
-> License: [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url]  
-
-> *** All bundled mods are distributed under their own licenses ***  
-> *** All art assets (textures, models, animations, sounds) are distributed under their own licenses ***  
-> [![License CC BY-NC-SA 4.0][LIC:spec:shd]][LIC:spec:url] [![][LIC:spec:logo] ][LIC:spec:url]  
+> License: [![License CC BY-NC-SA 4.0][LIC:shd]][LIC:url] ![][LIC:log]  
+> ***Bundled addons/mods are distributed under their own licenses*** (if any)  
+> ***Art assets (textures, models, animations, sounds) are distributed under their own licenses*** 
 
 #### Original (0) - Author: [`@Sage Sagan`][LINK:sagesagan]
 
-> [Thread][MOD:org:thread]  - [Download][MOD:org:download] - Source: [GitHub][MOD:org:source] 
-> License: [![License CC BY-NC-SA 4.0][LIC:org:shd]][LIC:org:url]
-
-  <ul>
-    <li>fff</li>
-  </ul>
-</details>
-
-
-#### aka Legal Mumbo Jumbo
-
-Source: [GitHub][MOD:github:repo]  
-License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]    
-> *** All bundled mods are distributed under their own licenses***<br>
-> *** All art assets (textures, models, animations) are distributed under their own licenses*** 
-
-### Original
-
-[Thread][MOD:original:thread]  
-[Download][MOD:original:download]  
-Source: [GitHub][MOD:original:source]  
-License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]  
-
-##### Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date 
+> [Thread][MOD:org:thread]  - Download: [Dropbox][MOD:org:download] - Source: [Dropbox][MOD:org:source] 
+> License: [![License CC BY-NC-SA 4.0][LIC:org:shd]][LIC:org:url] ![][LIC:org:log]
 
 <!-- mod links -->
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-* "Pteron Forum Thread"
-
 [MOD:chlog]: https://github.com/zer0Kerbal/Pteron/changelog.md "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/Pteron/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/Pteron/discussions "Discussions"
@@ -192,15 +160,14 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 
 [CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/code.json
 
-
-
 <!--- original mod stuff -->
-[MOD:original:source]: https://www.dropbox.com/s/85og3xdhark7com/Pteron5.rar?dl=0
-[MOD:original:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*
-[MOD:original:download]: https://www.dropbox.com/s/85og3xdhark7com/Pteron5.rar?dl=0
+[MOD:org:source]: https://www.dropbox.com/s/85og3xdhark7com/Pteron5.rar?dl=0 "Dropbox"
+[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/64520-* "KSP Forum"  
+[MOD:org:download]: https://www.dropbox.com/s/85og3xdhark7com/Pteron5.rar?dl=0 "Dropbox"  
 
-[LOGO:ccbyncsa4]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
-
+[LIC:org:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:org:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:org:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/license.json "Creative Commons"
 
 <!--- AVC -->
 [AVC:shd]:  https://img.shields.io/badge/KSP-AVC--supported-00C961.svg?labelColor=black&style=plastic
@@ -229,23 +196,12 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/MODNAME/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
 
+[LIC:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
+[LIC:log]: https://licensebuttons.net/i/l/by-nc-sa/transparent/33/66/99/76x22.png "CC BY-NC-SA 4.0"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/license.json "Creative Commons"
 
 
-
-
-
-
-
-
-
-
-[LINK:license]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
-
-[shield:license]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Pteron/master/json/license.json&logo=creativecommons&logoColor=white  "Creative Commons"
-
-[shield:avcvalid]:   https://github.com/zer0Kerbal/Pteron/workflows/Validate%20AVC%20.version%20files/badge.svg "thank you to DasSkelett"
-
-<!-- zer0Kerbal mods -->  
+<!-- links to add-ons/mods -->  
 [thread:ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-* "On Demand Fuel Cells"
 [thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "Module Manager"
 [thread:ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-* "CKAN"
@@ -287,18 +243,9 @@ License: ![License CC BY-NC-SA 4.0][shield:license] ![][LOGO:ccbyncsa4]
 
 
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
-[LINK:sagesagan]: https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/ "Sage Sagan"
-
-[UTUBE:img]:  https://img.youtube.com/vi/3s4fpEkW40w/0.jpg "Kottabo Talks Pteron Micro Shuttle & Rescue Vehicle"
-[UTUBE:link]: https://youtu.be/3s4fpEkW40w "Kottabo Talks Pteron Micro Shuttle & Rescue Vehicle"
-[LINK:patreon:kottabos]: https://www.patreon.com/Kottabosgames "Kottabos Games Patreon"
-[LINK:kottabos]: https://forum.kerbalspaceprogram.com/index.php?/profile/36583-kottabos/ "Kottabos on KSP Forums"
-
-[IMG:hero:0]: https://i.imgur.com/KpBnYY2.jpg "Fruit Bat Industries Pteron mk I"
-[IMG:hero:1]: https://i.imgur.com/amouo8l.png "texture and logo work of Blackheart"
-[IMG:hero:2]: https://i.imgur.com/97s1p0O.png "Some of the amazing modeling work of Daemoria:"
-[IMG:hero:3]: https://i.imgur.com/T6pyukJ.jpg "More inspiration"
-[IMG:hero:4]: https://i.imgur.com/9insi36.png "Ptero logo"
+[LINK:sagesagan]:  https://forum.kerbalspaceprogram.com/index.php?/profile/102159-sage-sagan/ "Sage Sagan"
+[LINK:blackheart]: https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/ "Blackheart612"
+[LINK:daemoria]:   https://forum.kerbalspaceprogram.com/index.php?/profile/103696-daemoria/ "Daemoria"  
 
 <!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
 
